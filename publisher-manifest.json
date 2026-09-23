@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "28c7e6975a9e56dd34268e14",
+  "owner": "yynhkmfhy",
+  "repo": "page-4249adfd9640c018999598f9",
+  "title": "CLOUD",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4249adfd9640c018999598f9",
+      "a": "CLOUD",
+      "b": "机场官网线路发布页",
+      "entity": "CLOUD",
+      "brand": "CLOUD",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "153e5b89ab16376e7d57636e9a2f9189c474ca6608ec2a7399f967f601155351",
+      "content": {
+        "primary_entity": "CLOUD",
+        "keyword1": "CLOUD",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型挑客户端，连上节点即用。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLOSING_TEXT": "选好套餐并配置订阅，即可体验 CLOUD 加速。",
+          "AI_CLOSING_TITLE": "开启 CLOUD 加速",
+          "AI_DESCRIPTION": "，按设备数量与流量需求提供三档套餐，基础版适合轻量浏览，旗舰版支持五台设备与专线加速，团队版覆盖二十台设备，均可按年付节省费用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "订阅链接可在客户端粘贴导入，具体操作路径请以客户端文档为准，不同系统菜单名称略有差异。",
+          "AI_FAQ_ANSWER_3": "旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的游戏场景；基础版为普通线路节点池，满足日常浏览。",
+          "AI_FAQ_ANSWER_4": "套餐按年付更划算，年付约为月付的十个月价格。流量超出后可按需求升级到更高一档，避免中途中断。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备、VIP 高带宽节点与企业定制路由，并配专属客户经理，适合多终端协作的使用场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "CLOUD 三档套餐的流量和设备数分别是多少？",
+          "AI_FAQ_QUESTION_2": "订阅链接怎么导入到客户端？",
+          "AI_FAQ_QUESTION_3": "旗舰版的专线对游戏延迟有帮助吗？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度选套餐。",
+          "AI_FEATURES_TITLE": "选套餐先看这几点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，旗舰版 300GB 支持 5 台，团队版 1000GB 支持 20 台。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合高带宽场景。",
+          "AI_FEATURE_TEXT_3": "三档均支持按年付，年付约为月付的十个月价格，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "按设备与流量选档",
+          "AI_FEATURE_TITLE_2": "专线与解锁差异",
+          "AI_FEATURE_TITLE_3": "年付节省两个月",
+          "AI_GUIDE_INTRO": "按需求挑套餐、核对适配要求、然后在客户端填订阅。",
+          "AI_GUIDE_TITLE": "三步配置",
+          "AI_HERO_INTRO": "CLOUD 提供多档海外加速套餐，按每月流量与同时在线设备数区分，基础版适合轻量浏览，旗舰版兼顾流媒体与游戏加速，团队版覆盖多终端协作。所有套餐可年付，客户端按设备类型选择后填入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐按设备与流量选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付约省两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月 100GB 支持 3 台设备；旗舰版 ¥35/月 300GB 支持 5 台设备，含专线与流媒体解锁；团队版 ¥85/月 1000GB 支持 20 台设备，配 VIP 节点与专属客户经理。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "结合每月流量、同时在线设备数和预算，从基础版、旗舰版、团队版中挑一档。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与套餐的设备数量上限是否匹配，避免超出限制。",
+          "AI_STEP_TEXT_3": "打开对应设备的客户端，按客户端文档把订阅链接粘贴导入并启用节点。",
+          "AI_STEP_TITLE_1": "选定套餐档位",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "CLOUD 海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ezrescue.cn",
+    "host": "ezrescue.cn"
+  },
+  "file_hashes": {
+    "index.html": "6d0f664259ae051a3bce5ab13cafc24fec03b46158778bb4c8f67843b3cd2bee",
+    "sitemap.xml": "85e0275aaf97305a4ea2be5f4ebfeddfff052b9a8621421b12ee5cc8a486c6bf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dfadc79f7eef50896530b810761d77ac3808f9cef76b5e7cd58ac3db332d7f7b",
+    "robots.txt": "913282a3af95e20b4cb4f9ed2a6e71b0edabc23b1fe2442c8f6f25bf5697e35e",
+    "7ae4948b9b40fd63439be5af90959a7c.txt": "3574cca9bd70bd207f86004d53683060e277086856fa82d845cd05bec874b650"
+  },
+  "revision": "099054c9290e038927ef7ef6170d036e2e064957f39cd609ed2f52270992a83c"
+}
